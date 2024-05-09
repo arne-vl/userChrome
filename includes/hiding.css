@@ -4,9 +4,9 @@
 }
 
 /* hide the bookmark button in the URL bar */
-#star-button {
+/*#star-button {
   display: none !important;
-}
+}*/
 
 /* hide the extensions button */
 #extensions-button {
