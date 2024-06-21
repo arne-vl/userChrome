@@ -1,35 +1,35 @@
 /* hide list all tabs button */
 #alltabs-button {
-    display: none !important;
+  display: none !important;
 }
 
 /* hide the bookmark button in the URL bar */
 /*#star-button {
-  display: none !important;
+display: none !important;
 }*/
 
 /* hide the extensions button */
 #extensions-button {
-  display: none !important;
+display: none !important;
 }
 
 /* tab close button */
 .tab-close-button {
-  display: none;
+display: none;
 }
 
 /*
 .tabbrowser-tab:hover .tab-close-button {
-  display: block;
+display: block;
 }
 */
 
 /* hide the toggle reader view button */
 #reader-mode-button {
-  display: none !important;
+display: none !important;
 }
 
 /* hide the new tab button */
 #tabs-newtab-button {
-  display: none !important;
+display: none !important;
 }

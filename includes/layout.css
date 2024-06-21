@@ -7,6 +7,7 @@
 .tabbrowser-tab[fadein]{ max-width: 100vw !important }
 
 /* center tab titles */
+/*
 .tabbrowser-tab[selected]:not(:hover):not([pinned]) .tab-label-container,
 #tabbrowser-tabs:not([closebuttons="activetab"]) .tabbrowser-tab:not(:hover):not([pinned]) .tab-label-container{
   padding-inline-end: 6px !important;
@@ -19,3 +20,4 @@
   margin-inline-end: auto;
 }
 
+*/
